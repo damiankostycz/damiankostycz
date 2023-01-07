@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @damiankostycz
+<!---- 👋 Hi, I’m @damiankostycz
 - 👀 I’m student of the Warsaw University of Technlology in the filed of telecomunication (2nd year)
 - 🌱 I’m currently learning python, java
 - 💞️ I’m looking to collaborate on scollarship or internship
